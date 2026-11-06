@@ -1,0 +1,3 @@
+# Netscape HTTP Cookie File
+# Written by HTTrack Website Copier
+#HttpOnly_.www.java.com	TRUE	/	TRUE	1793971639	__cf_bm	dlf3uWTtXDxZkIIp_zxfXchxWdcf46xPb6BN3Tix57Y-1793969839.9386601-1.0.1.1-1itnkq2BVc_jrEYu3TpjLlUlL4q3ihc5hw8vy5QavIPidyPVV4Stkzngd7Pm1iM_Ml1K9PxL4RtwWsXBXMl89wAdUr6nWQ_n90QzdBB.QDBuzh9smDRVx_3E8YxYVl_u

@@ -1,0 +1,54 @@
+HTTrack3.51-0 launched on Fri, 06 Nov 2026 15:56:20 at https://ateco-mep.info/ +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack/3.x; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://ateco-mep.info/ -O1 C:\Users\2025\Desktop\cht +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:56:54	Error: 	"Not Found" (404) at link https://ateco-mep.info/mimg/bootimage.png (from https://ateco-mep.info/)
+15:56:54	Error: 	"Not Found" (404) at link https://ateco-mep.info/1 (from https://ateco-mep.info/)
+15:56:54	Error: 	"Not Found" (404) at link https://ateco-mep.info/2 (from https://ateco-mep.info/)
+15:56:54	Error: 	"Not Found" (404) at link https://ateco-mep.info/3 (from https://ateco-mep.info/)
+15:56:54	Info: 	Waiting 10s before retrying (Retry-After)
+15:56:54	Info: 	Retry after error 429 (Too Many Requests) at link https://ateco-mep.info/4 (from https://ateco-mep.info/)
+15:57:04	Info: 	Waiting 10s before retrying (Retry-After)
+15:57:04	Info: 	Retry after error 429 (Too Many Requests) at link https://ateco-mep.info/5 (from https://ateco-mep.info/)
+15:57:41	Error: 	"Not Found" (404) at link https://ateco-mep.info/fonts/glyphicons-halflings-regular.eot (from https://ateco-mep.info/css/bootstrap.min.css?z153)
+15:57:41	Error: 	"Not Found" (404) at link https://ateco-mep.info/fonts/glyphicons-halflings-regular.eot? (from https://ateco-mep.info/css/bootstrap.min.css?z153)
+15:57:41	Error: 	"Not Found" (404) at link https://ateco-mep.info/fonts/glyphicons-halflings-regular.woff2 (from https://ateco-mep.info/css/bootstrap.min.css?z153)
+15:57:41	Error: 	"Not Found" (404) at link https://ateco-mep.info/fonts/glyphicons-halflings-regular.woff (from https://ateco-mep.info/css/bootstrap.min.css?z153)
+15:57:41	Error: 	"Not Found" (404) at link https://ateco-mep.info/fonts/glyphicons-halflings-regular.ttf (from https://ateco-mep.info/css/bootstrap.min.css?z153)
+15:57:41	Error: 	"Not Found" (404) at link https://ateco-mep.info/fonts/glyphicons-halflings-regular.svg (from https://ateco-mep.info/css/bootstrap.min.css?z153)
+15:57:41	Error: 	"Not Found" (404) at link https://ateco-mep.info/css/imgs/banner.png (from https://ateco-mep.info/css/style.css?v=171-onlinehost)
+15:57:41	Error: 	"Not Found" (404) at link https://ateco-mep.info/css/<url removed for brevity (from https://ateco-mep.info/css/style.css?v=171-onlinehost)
+15:57:45	Error: 	"Not Found" (404) at link https://ateco-mep.info/4 (from https://ateco-mep.info/)
+15:57:45	Error: 	"Not Found" (404) at link https://ateco-mep.info/5 (from https://ateco-mep.info/)
+15:57:45	Error: 	"Not Found" (404) at link https://ateco-mep.info/popover%20requires%20tooltip.js (from https://ateco-mep.info/js/bootstrap.min.js?z200)
+15:57:45	Error: 	"Not Found" (404) at link https://ateco-mep.info/The Deployment Toolkit installJRE()  method no longer installs JRE. It just checks if the requested version of JRE is installed and calls installLatestJRE() otherwise. More Information on usage of the Deployment Toolkit can be found in the Deployment Guide at https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/ (from https://ateco-mep.info/js/client.min.js?z126)
+15:57:45	Error: 	"Not Found" (404) at link https://ateco-mep.info/The Deployment Toolkit no longer installs JRE. Method setInstallerType() is no-op. More Information on usage of the Deployment Toolkit can be found in the Deployment Guide at ://docs.oracle.com/javase/8/docs/technotes/guides/deploy/ (from https://ateco-mep.info/js/client.min.js?z126)
+15:57:45	Error: 	"Not Found" (404) at link https://ateco-mep.info/The Deployment Toolkit no longer installs JRE. Method setAdditionalPackages() is no-op. More Information on usage of the Deployment Toolkit can be found in the Deployment Guide at ://docs.oracle.com/javase/8/docs/technotes/guides/deploy/ (from https://ateco-mep.info/js/client.min.js?z126)
+15:57:45	Info: 	Waiting 5s before retrying (Retry-After)
+15:57:45	Info: 	Retry after error 429 (Too Many Requests) at link https://ateco-mep.info/hs.png (from https://ateco-mep.info/jscolor/jscolor.js?z203)
+15:57:50	Info: 	Waiting 4s before retrying (Retry-After)
+15:57:50	Info: 	Retry after error 429 (Too Many Requests) at link https://ateco-mep.info/hv.png (from https://ateco-mep.info/jscolor/jscolor.js?z203)
+15:57:54	Info: 	Waiting 4s before retrying (Retry-After)
+15:57:54	Info: 	Retry after error 429 (Too Many Requests) at link https://ateco-mep.info/cross.gif (from https://ateco-mep.info/jscolor/jscolor.js?z203)
+15:57:58	Info: 	Waiting 4s before retrying (Retry-After)
+15:57:58	Info: 	Retry after error 429 (Too Many Requests) at link https://ateco-mep.info/arrow.gif (from https://ateco-mep.info/jscolor/jscolor.js?z203)
+15:58:02	Error: 	"Not Found" (404) at link https://ateco-mep.info/like.png (from https://ateco-mep.info/js/app.js?v=227-onlinehost)
+15:58:02	Error: 	"Not Found" (404) at link https://ateco-mep.info/im2/23.png (from https://ateco-mep.info/js/app.js?v=227-onlinehost)
+15:58:02	Error: 	"Not Found" (404) at link https://ateco-mep.info/im3/9.png (from https://ateco-mep.info/js/app.js?v=227-onlinehost)
+15:58:02	Error: 	"Not Found" (404) at link https://ateco-mep.info/im3/12.gif (from https://ateco-mep.info/js/app.js?v=227-onlinehost)
+15:58:02	Error: 	"Not Found" (404) at link https://ateco-mep.info/im3/27.gif (from https://ateco-mep.info/js/app.js?v=227-onlinehost)
+15:58:02	Warning: 	Moved Permanently for https://ateco-mep.info/pic/
+15:58:02	Warning: 	File has moved from https://ateco-mep.info/pic/ to /pic
+15:58:03	Error: 	"Not Found" (404) at link https://ateco-mep.info/hs.png (from https://ateco-mep.info/jscolor/jscolor.js?z203)
+15:58:03	Error: 	"Not Found" (404) at link https://ateco-mep.info/hv.png (from https://ateco-mep.info/jscolor/jscolor.js?z203)
+15:58:03	Error: 	"Not Found" (404) at link https://ateco-mep.info/cross.gif (from https://ateco-mep.info/jscolor/jscolor.js?z203)
+15:58:03	Error: 	"Not Found" (404) at link https://ateco-mep.info/arrow.gif (from https://ateco-mep.info/jscolor/jscolor.js?z203)
+15:58:03	Error: 	"Not Found" (404) at link https://ateco-mep.info/pic (from https://ateco-mep.info/pic/)
+
+HTTrack Website Copier/3.51-0 mirror complete in 1 minutes 43 seconds : 112 links scanned, 75 files written (30879889 bytes overall) [28693627 bytes received at 278578 bytes/sec], 3998243 bytes transferred using HTTP compression in 45 files, ratio 39%, 5.0 requests per connection
+(28 errors, 2 warnings, 12 messages)
+(Some links above the start directory were not mirrored. Pass -B (--can-go-up-and-down) to mirror them.)
